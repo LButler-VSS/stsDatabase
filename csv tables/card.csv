@@ -1,0 +1,341 @@
+card_id,character_id,card_name,keyword,type
+1,Bash,Vulnerable,Attack
+1,Defend_Ironclad,Block,Skill
+1,Strike_Ironclad,None,Attack
+1,Anger,None,Attack
+1,Armaments,Block,Skill
+1,Body Slam,Block,Attack
+1,Clash,None,Attack
+1,Clothesline,Weak,Attack
+1,Flex,Strength,Skill
+1,Havoc,Exhaust,Skill
+1,Headbutt,None,Attack
+1,Heavy Blade,Strength,Attack
+1,Iron Wave,Block,Attack
+1,Perfected Strike,None,Attack
+1,Pommel Strike,Draw,Attack
+1,Shrug It Off,Draw,Skill
+1,Sword Boomerang,Strength,Attack
+1,Thunderclap,Vulnerable,Attack
+1,True Grit,Exhaust,Skill
+1,Twin Strike,Strength,Attack
+1,Warcry,Exhaust,Skill
+1,Wild Strike,Status,Attack
+1,Battle Trance,Draw,Skill
+1,Blood For Blood,HP,Attack
+1,Bloodletting,HP,Skill
+1,Burning Pact,Exhaust,Skill
+1,Carnage,Ethereal,Attack
+1,Combust,HP,Power
+1,Dark Embrace,Exhaust,Power
+1,Disarm,Exhaust,Skill
+1,Dropkick,Vulnerable,Attack
+1,Dual Wield,None,Skill
+1,Entrench,Block,Power
+1,Evolve,Status,Power
+1,Feel No Pain,Exhaust,Power
+1,Fire Breathing,Status,Power
+1,Flame Barrier,Block,Skill
+1,Ghostly Armor,Ethereal,Skill
+1,HemoKinesis,HP,Attack
+1,Infernal Blade,Exhaust,Skill
+1,Inflame,Strength,Power
+1,Intimidate,Exhaust,Skill
+1,Metallicize,Block,Power
+1,Power Through,Status,Skill
+1,Pummel,Exhaust,Attack
+1,Rage,Block,Skill
+1,Rampage,None,Attack
+1,Reckless Charge,Status,Attack
+1,Rupture,HP,Power
+1,Searing Blow,None,Attack
+1,Second Wind,Exhaust,Skill
+1,Seeing Red,Exhaust,Skill
+1,Sentinel,Exhaust,Skill
+1,Sever Soul ,Exhaust,Attack
+1,Shockwave,Exhaust,Skill
+1,Spot Weakness,Strength,Skill
+1,Uppercut,Vulnerable,Attack
+1,Whirlwind,None,Attack
+1,Barricade,Block,Power
+1,Berserk,None,Power
+1,Bludgeon,None,Attack
+1,Brutality,HP,Power
+1,Corruption,Exhaust,Power
+1,Demon Form,Strength,Power
+1,Double Tap,None,Skill
+1,Exhume,Exhaust,Skill
+1,Feed,HP,Attack
+1,Fiend Fire,Exhaust,Attack
+1,Immolate,Status,Attack
+1,Impervious,Block,Skill
+1,Juggernaut,Block,Power
+1,Limit Break,Strength,Skill
+1,Offering,HP,Skill
+1,Reaper,HP,Attack
+2,Defend_Silent,Block,Skill
+2,Neutralize,Weak,Attack
+2,Strike_Silent,None,Attack
+2,Survivor,Discard,Skill
+2,Acrobatics,Discard,Skill
+2,Backflip,Draw,Skill
+2,Bane,Poison,Attack
+2,Blade Dance,Shiv,Skill
+2,Cloak and Dagger,Shiv,Skill
+2,Dagger Spray,Strength,Attack
+2,Dagger Throw,Discard,Attack
+2,Deadly Poison,Poison,Skill
+2,Deflect,Block,Skill
+2,Dodge and Roll,Block,Skill
+2,Flying Knee,Energy,Attack
+2,Outmaneuver,Energy,Skill
+2,Piercing Wail,Exhaust,Skill
+2,Posioned Stab,Poison,Attack
+2,Prepared,Discard,Skill
+2,Quick Slash,Draw,Attack
+2,Slice,0Cost,Attack
+2,Sneaky Strike,Discard,Attack
+2,Sucker Punch,Weak,Attack
+2,Accuracy,Shiv,Power
+2,All-Out Attack,Discard,Attack
+2,Backstab,Exhaust,Blur
+2,Bouncing Flask,Poison,Skill
+2,Calculated Gamble,Discard,Skill
+2,Caltrops,None,Power
+2,Catalyst,Poison,Skill
+2,Choke,None,Attack
+2,Concentrate,Discard,Skill
+2,Crippling Cloud,Poison,Skill
+2,Dash,Block,Attack
+2,Distraction,Exhaust,Skill
+2,Endless Agony,0 Cost,Attack
+2,Escape Plan,Draw,Skill
+2,Eviscerate,Discard,Attack
+2,Expertise,Draw,Skill
+2,Finisher,None,Attack
+2,Flechettes,None,Attack
+2,Footwork,Dexterity,Power
+2,Heel Hook,Weak,Attack
+2,Infinite Blades,Shiv,Power
+2,Leg Sweep,Weak,Skill
+2,Masterful Stab,None,Attack
+2,Noxious Fumes,Poison,Power
+2,Predator,Draw,Attack
+2,Reflex,Discard,Skill
+2,Riddle with Holes,Strength,Attack
+2,Setup,None,Skill
+2,Skewer,None,Attack
+2,Tactician,Discard,Skill
+2,Terror,Vulnerable,Skill
+2,Well-Laid Plans,Retain,Power
+2,A Thousand Cuts,None,Power
+2,Adrenaline,Draw,Skill
+2,After Image,Block,Power
+2,Alchemize,Exhaust,Skill
+2,Bullet Time,None,Skill
+2,Burst,None,Skill
+2,Corpse Explosion,Poison,Skill
+2,Die Die Die,Exhaust,Attack
+2,Doppelganger,Energy,Skill
+2,Envenom,Poison,Power
+2,Glass Knife,Strength,Attack
+2,Grand Finale,None,Attack
+2,Malaise,Weak,Skill
+2,Nightmare,None,Skill
+2,Phantasmal Killer,None,Skill
+2,Storm of Steel,Shiv,Skill
+2,Tool of the Trade,Discard,Power
+2,Unload,Discard,Attack
+2,Wraith Form,None,Power
+3,Defend_Defect,Block,Skill
+3,Dualcast,Evoke,Skill
+3,Strike_Defect,None,Attack
+3,Zap,Channel,Skill
+3,Ball Lightning,Channel,Attack
+3,Barrage,Channel,Attack
+3,Beam Cell,Vulnerable,Attack
+3,Charge Battery,Energy,Skill
+3,Claw,0Cost,Skill
+3,Cold Snap,Channel,Attack
+3,Compile Driver,Channel,Attack
+3,Coolheaded,Channel,Skill
+3,Go for the Eyes,Weak,Attack
+3,Hologram,Block,Skill
+3,Leap,Block,Skill
+3,Rebound,None,Attack
+3,Recursion,Evoke,Skill
+3,Stack,Block,Skill
+3,Steam Barrier,Block,Skill
+3,Streamline,None,Attack
+3,Sweeping Beam,Draw,Attack
+3,Turbo,Energy,Skill
+3,Aggregate,Energy,Skill
+3,Auto-Shields,Block,Skill
+3,Blizzad,Channel,Attack
+3,Boot Sequence,Block,Skill
+3,Bullseye,None,Attack
+3,Capacitor,Channel,Power
+3,Chaos,Channel,Skill
+3,Chill,Channel,Skill
+3,Consume,Focus,Skill
+3,Darkness,Channel,Skill
+3,Defragment,Focus,Power
+3,Doom and Gloom,Channel,Attack
+3,Double Energy,Energy,Skill
+3,Equilibrium,Retain,Skill
+3,FTL,0Cost,Attack
+3,Force Field,Block,Skill
+3,Fusion,Channel,Skill
+3,Genetic Algorithm,Block,Skill
+3,Glacier,Channel,Skill
+3,Heatsinks,Draw,Power
+3,Hello World,None,Power
+3,Loop,Channel,Power
+3,Melter,None,Attack
+3,Overclock,Draw,Skill
+3,Recycle,Energy,Skill
+3,Reinforced Body,Block,Skill
+3,Reprogram,Strength,Skill
+3,Rip and Tear,Strength,Attack
+3,Scrape,0Cost,Attack
+3,Self Repair,HP,Power
+3,Skim,Draw,Skill
+3,Static Discharge,Channel,Power
+3,Storm,Channel,Power
+3,Sunder,None,Attack
+3,Tempest,Channel,Skill
+3,White Noise,None,Skill
+3,All for One,0Cost,Attack
+3,Amplify,None,Skill
+3,Biased Cognition,Focus,Power
+3,Buffer,None,Power
+3,Core Surge,Artifact,Attack
+3,Creative AI,None,Power
+3,Echo Form,None,Power
+3,Electrodynamics,Channel,Power
+3,Fusion,Evoke,Skill
+3,Hyperbeam,None,Attack
+3,Machine Learning,Draw,Power
+3,Meteor Strike,Channel,Attack
+3,Multi-Cast,Evoke,Skill
+3,Rainbow,Channel,Skill
+3,Reboot,Draw,Skill
+3,Seek,None,Skill
+3,Thunder Strike,Channel,Attack
+4,Defend_Watcher,Block,Attack
+4,Eruption,Wrath,Attack
+4,Strike,None,Attack
+4,Vigilance,Calm,Skill
+4,Bowling Bash,None,Attack
+4,Consecrate,None,Attack
+4,Crescendo,Wrath,Skill
+4,Crush Joints,Vulnerable,Attack
+4,Cut Through Fate,Scry,Attack
+4,Empty Body,Stance,Skill
+4,Empty Fist,Stance,Attack
+4,Flurry of Blows,Stance,Attack
+4,Flying Sleeves,Retain,Attack
+4,Follow-Up,None,Attack
+4,Halt,Wrath,Skill
+4,Just Lucky,Scry,Attack
+4,Pressure Point,Mark,Skill
+4,Prostrate,Divinity,Skill
+4,Protect,Retain,Skill
+4,Sash Whip,Weak,Attack
+4,Third Eye,Scry,Skill
+4,Tranquility,Calm,Skill
+4,Battle Hymn,Smite,Power
+4,Carve Reality,Smite,Attack
+4,Collect,Miracle,Skill
+4,Conclude,None,Attack
+4,Deceive Reality,Safety,Skill
+4,Empty Mind,Stance,Skill
+4,Fasting,Strength,Power
+4,Fear No Evil,Calm,Attack
+4,Foreign Influence,Exhaust,Skill
+4,Foresight,Wrath,Skill
+4,Inner Peace,Calm,Skill
+4,Like Water,Calm,Power
+4,Meditate,Calm,Skill
+4,Mental Fortress,Stance,Power
+4,Nirvana,Scry,Power
+4,Perseverance,Retain,Skill
+4,Pray,Divinity,Skill
+4,Reach Heaven,None,Attack
+4,Rushdown,Wrath,Power
+4,Sanctity,Draw,Skill
+4,Sands of Time,Retain,Attack
+4,Signature Move,None,Attack
+4,Simmering Fury,Wrath,Skill
+4,Swivel,Block,Skill
+4,Talk to the Hand,Block,Attack
+4,Tantrum,Wrath,Attack
+4,Wallop,Block,Attack
+4,Wave of the Hand,Weak,Skill
+4,Weave,Scry,Attack
+4,Wheel Kick,Draw,Attack
+4,Windmill Strike,Retain,Attack
+4,Worship,Divinity,Skill
+4,Wreath of Flame,None,Skill
+4,Alpha,Exhaust,Skill
+4,Blasphemy,Divinity,Skill
+4,Brilliance,Divinity,Attack
+4,Conjure Blade,Exhaust,Skill
+4,Deus Ex Machina,Miracle,Skill
+4,Deva Form,Energy,Power
+4,Devotion,Retain,Power
+4,Judgement,None,Skill
+4,Lesson Learned,Upgrade,Attack
+4,Master Reality,Upgrade,Power
+4,Omniscience,Exhaust,Skill
+4,Ragnarok,None,Attack
+4,Scrawl,Draw,Skill
+4,Spirit Shield,Block,Skill
+4,Vault,Exhaust,Skill
+4,Wish,Exhaust,Skill
+5,Bandage Up,HP,Skill
+5,Blind,Weak,Skill
+5,Dark Shackles,Exhaust,Skill
+5,Deep Breath,Draw,Skill
+5,Discovery,Exhaust,Skill
+5,Dramatic Entrance,Exhaust,Attack
+5,Enlightenment,None,Skill
+5,Finesse,Draw,Skill
+5,Flash of Steel,Draw,Attack
+5,Forethough,None,Skill
+5,Impatience,Draw,Skill
+5,Jack of All Trades,Exhaust,Skill
+5,Madness,Exhaust,Skill
+5,Mind Blast,Innate,Attack
+5,Panacea,Artifact,Skill
+5,Panic Button,Block,Skill
+5,Purity,Exhaust,Skill
+5,Swift Strike,0Cost,Attack
+5,Trip,Vulnerable,Skill
+5,Apotheosis,Upgrade,Skill
+5,Chrysalis,Exhaust,Skill
+5,Hand of Greed,Fatal,Attack
+5,Magnetism,None,Power
+5,Master of Strategy,Draw,Skill
+5,Mayhem,None,Power
+5,Metamorphosis,Exhaust,Skill
+5,Panache,None,Power
+5,Sadistic Nature,None,Power
+5,Secret Technique,Exhaust,Skill
+5,Secret Weapon,Exhaust,Skill
+5,The Bomb,None,Skill
+5,Thinking Ahead,Draw,Skill
+5,Transmutation,Exhaust,Skill
+5,Violence,Exhaust,Skill
+5,Apparition,Intangible,Skill
+5,Beta,None,Skill
+5,Bite,HP,Attack
+5,Insight,Draw,Skill
+5,J.A.X.,Strength,Skill
+5,Miracle,Energy,Skill
+5,Omega,None,Power
+5,Ritual Dagger,Fatal,Attack
+5,Safety,Retain,Skill
+5,Shiv,Shiv,Attack
+5,Smite,Retain,Attack
+5,Through Violence,Retain,Attack
